@@ -1,4 +1,4 @@
 navbar created 
 navbar with glossy background 
 navbar load time is fixed by adding lazy loading using redux
-Now home page loading mathcing with navbar laoding in 100 ms
+Now home page loading matching navbar loading in 100 ms
